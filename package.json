@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/patrickkempff/to-array.js.git"
+    "url": "https://github.com/patrickkempff/convert-to-array.js.git"
   },
   "keywords": [
     "array",
@@ -42,7 +42,7 @@
   "author": "Patrick Kempff",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/patrickkempff/to-array..js/issues"
+    "url": "https://github.com/patrickkempff/convert-to-array.js/issues"
   },
-  "homepage": "https://github.com/patrickkempff/to-array.js.js"
+  "homepage": "https://github.com/patrickkempff/convert-to-array.js"
 }
