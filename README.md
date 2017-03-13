@@ -1,4 +1,4 @@
-# to-array.js
+# convert-to-array.js
 
 [![license](https://img.shields.io/github/license/patrickkempff/vidjo.js.svg?maxAge=2592000)]()
 
