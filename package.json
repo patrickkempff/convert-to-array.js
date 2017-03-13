@@ -2,7 +2,7 @@
   "name": "convert-to-array",
   "version": "0.1.0",
   "description": "Convert anything to array",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "mocha tools/setup-test-environment.js \"test/**/*.spec.js\" --reporter spec",
     "test:coverage": "babel-node node_modules/isparta/bin/isparta cover --root src --report html _mocha -- --require ./tools/setup-test-environment.js \"test/**/*.spec.js\" --reporter progress",
